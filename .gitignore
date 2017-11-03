@@ -20,6 +20,9 @@ _autosave-*
 *.xml
 *.csv
 
+# Release files
+Gerber/
+
 # General
 .DS_Store
 .AppleDouble
