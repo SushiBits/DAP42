@@ -97,14 +97,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 5
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "DAP42 CMSIS-DAP Debug Probe"
+Date "2017-11-09"
+Rev "2.0 Rel 1"
+Comp "SushiBits"
 Comment1 ""
 Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment3 "Source: https://github.com/SushiBits/DAP42"
+Comment4 "Firmware: https://github.com/SushiBits/DAP42-Firmware"
 $EndDescr
 $Sheet
 S 8800 3900 700  600 

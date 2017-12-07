@@ -13,6 +13,13 @@
   )
 
   (page A4)
+  (title_block
+    (title "DAP42 CMSIS-DAP Debug Probe")
+    (date 2017-11-09)
+    (rev "2.0 Rel 1")
+    (company SushiBits)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)

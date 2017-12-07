@@ -96,15 +96,15 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 5
-Title ""
-Date ""
-Rev ""
-Comp ""
+Sheet 3 5
+Title "DAP42 CMSIS-DAP Debug Probe"
+Date "2017-11-09"
+Rev "2.0 Rel 1"
+Comp "SushiBits"
 Comment1 ""
 Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment3 "Source: https://github.com/SushiBits/DAP42"
+Comment4 "Firmware: https://github.com/SushiBits/DAP42-Firmware"
 $EndDescr
 $Comp
 L USBLC6-2SC6 U6
@@ -112,7 +112,7 @@ U 1 1 59FAE714
 P 5900 4200
 AR Path="/59FAE697/59FAE714" Ref="U6"  Part="1" 
 AR Path="/59FB1991/59FAE714" Ref="U8"  Part="1" 
-F 0 "U6" H 5650 4550 50  0000 C CNN
+F 0 "U8" H 5650 4550 50  0000 C CNN
 F 1 "USBLC6-2SC6" H 5900 3850 50  0000 C CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 6550 4550 50  0001 C CNN
 F 3 "" H 5650 4550 50  0001 C CNN
@@ -125,7 +125,7 @@ U 1 1 59FAE777
 P 4800 3800
 AR Path="/59FAE697/59FAE777" Ref="RN2"  Part="1" 
 AR Path="/59FB1991/59FAE777" Ref="RN3"  Part="1" 
-F 0 "RN2" V 4500 3800 50  0000 C CNN
+F 0 "RN3" V 4500 3800 50  0000 C CNN
 F 1 "510" V 5000 3800 50  0000 C CNN
 F 2 "Resistors_SMD:R_Array_Convex_4x0603" V 5075 3800 50  0001 C CNN
 F 3 "" H 4800 3800 50  0001 C CNN
@@ -162,7 +162,7 @@ U 1 1 59FAE952
 P 5900 3300
 AR Path="/59FAE697/59FAE952" Ref="U5"  Part="1" 
 AR Path="/59FB1991/59FAE952" Ref="U7"  Part="1" 
-F 0 "U5" H 5650 3650 50  0000 C CNN
+F 0 "U7" H 5650 3650 50  0000 C CNN
 F 1 "USBLC6-2SC6" H 5900 2950 50  0000 C CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 6550 3650 50  0001 C CNN
 F 3 "" H 5650 3650 50  0001 C CNN
